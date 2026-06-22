@@ -1,4 +1,5 @@
-🧩 DS-Console-Suite
+# 🧩 DS-Console-Suite
+
 A collection of three C++ console applications, each built from scratch using custom data structures (linked lists, doubly linked lists, queues, and stacks) instead of STL containers.
 
 Developed by:
